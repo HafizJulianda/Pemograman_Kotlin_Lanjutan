@@ -1,9 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e446346-8fbe-4d03-82f8-dc503c274c45" name="Changes" comment="Push starter project">
+    <list default="true" id="1e446346-8fbe-4d03-82f8-dc503c274c45" name="Changes" comment="Add all">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AkarKuadrat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array2Dimensi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayMethod.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayMultiDimensiu.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayPrimitive.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BreakAndContinue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BreakContinueForLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Collections.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DefaultFungsi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/EkspresiTunggal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ElvisOperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExceptionHandling.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ForLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ForLoopKali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ForLoopKalkulator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsiLambada.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsiMath.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KalkulatorIF.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KalkulatorWhen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LuasKelilingLingkaran.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Map.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MutableListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/NilaiKembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/NilaiNull.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Operator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PairNilaiKembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PemeriksaanNull.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Percabangan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Percabangan2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ranges.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ReturnForLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SafeCalls.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Set.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TanpaNilaiKembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/When.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhileDanDoWhile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhileLoopKalkulator.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Array.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +51,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -24,17 +63,65 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2lpKSNJVdqjU2oV5b2etbbe81Jr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Kotlin.OperatorKt">
+    <configuration name="Array2DimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array2DimensiKt" />
+      <module name="PemogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayMultiDimensiuKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayMultiDimensiuKt" />
+      <module name="PemogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionsKt" />
+      <module name="PemogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListOfKt" />
+      <module name="PemogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperatorKt" />
+      <module name="PemogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.OperatorKt" />
+        <item itemvalue="Kotlin.ListOfKt" />
+        <item itemvalue="Kotlin.CollectionsKt" />
+        <item itemvalue="Kotlin.ArrayMultiDimensiuKt" />
+        <item itemvalue="Kotlin.Array2DimensiKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,7 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725871746794</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Push starter project">
+      <created>1725872610531</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725872610531</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add all">
+      <created>1725872632150</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725872632150</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,6 +168,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Push starter project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Push starter project" />
+    <MESSAGE value="Add all" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add all" />
   </component>
 </project>
